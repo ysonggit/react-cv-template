@@ -15,7 +15,7 @@ npm run deploy
 
 [Live Demo](https://ysonggit.github.io/react-cv-template)
 
-##Credits
+## Credits
 - [S.Berkay Aydın's Website](http://sbaydin.com/)
 - [React](https://facebook.github.io/react/)
 - [Theme - Xiaoying Riley - Orbit Theme](https://github.com/xriley/)

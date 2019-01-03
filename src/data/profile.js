@@ -11,9 +11,9 @@ const profile = {
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: '', school: 'University of South Carolina', date: 'Ph.D. in Computer Science, 2010-2015' },
-      { name: '', school: 'University of New Mexico', date: 'M.S. in Electrical Engineering, 2008-2009' },
-      { name: '', school: 'China University of Geosciences', date: 'B.S. in Electrical Engineering, 2003-2007' }
+      { school: 'University of South Carolina', meta: 'Ph.D. Computer Science', date: '2010-2015' },
+      { school: 'University of New Mexico', meta: 'M.S. Electrical Engineering', date: '2008-2009' },
+      { school: 'China University of Geosciences', meta: 'B.S. Electrical Engineering', date: '2003-2007' }
     ]
   }
 };
