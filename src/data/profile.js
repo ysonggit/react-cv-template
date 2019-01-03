@@ -19,7 +19,7 @@ const profile = {
   languages: {
     sectionTitle: 'Certifications',
     list: [
-      { name: 'Deep Learning Specialization', level: 'Coursera - 2018' },
+      { name: 'Deep Learning Specialization', level: 'Coursera - 2018', url: 'www.coursera.org/account/accomplishments/specialization/certificate/B72MXW7QHYAP'},
     ],
   }
 };

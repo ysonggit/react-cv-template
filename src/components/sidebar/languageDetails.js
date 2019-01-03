@@ -5,7 +5,7 @@ export default class LanguageDetails extends Component {
   renderListItem(item, i) {
     return (
       <li key={`language_item_${i}`}>
-        {item.name}
+        <a href={`//${item.url}`} target="_blank"> {item.name} </a>
         <span className="lang-desc">  ({item.level})</span>
       </li>
     );
