@@ -15,6 +15,12 @@ const profile = {
       { school: 'University of New Mexico', meta: 'M.S. Electrical Engineering', date: '2008-2009' },
       { school: 'China University of Geosciences', meta: 'B.S. Electrical Engineering', date: '2003-2007' }
     ]
+  },
+  languages: {
+    sectionTitle: 'Certifications',
+    list: [
+      { name: 'Deep Learning Specialization', level: 'Coursera - 2018' },
+    ],
   }
 };
 
