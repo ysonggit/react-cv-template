@@ -29,8 +29,8 @@ export default class CV extends Component {
     return null;
   }
   renderOpenSourcePart() {
-    return (<div>You can create your own CV like this, <a href="https://github.com/sbayd/react-cv-template" target="_blank">access to the source code.</a></div>);
-  }     
+    return (<div>Fork the <a href="https://github.com/ysonggit/react-cv-template" target="_blank">Github</a> of this template to create your own CV!</div>);
+  }
   renderCareerProfile() {
     const { icon, sectionTitle, description } = this.props.careerProfile;
     const innerContent = (<div className="summary" dangerouslySetInnerHTML={{ __html: description }} />);

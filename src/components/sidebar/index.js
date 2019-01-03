@@ -71,8 +71,8 @@ Sidebar.propTypes = {
   github: PropTypes.string,
   twitter: PropTypes.string,
   educationDetails: PropTypes.shape().isRequired,
-  languages: PropTypes.shape().isRequired,
-  interests: PropTypes.shape().isRequired,
+  languages: PropTypes.shape(),
+  interests: PropTypes.shape(),
 };
 
 Sidebar.defaultProps = {

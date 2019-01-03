@@ -17,7 +17,7 @@ export default class Tags extends Component {
         className="tags-section"
         icon={icon || 'rocket'}
         id="tags"
-        title={sectionTitle || 'Skills & Proficiency'}
+        title={sectionTitle || 'Skill Tags'}
       >
         <div className="skills">
           <ul className="skillset">
@@ -36,4 +36,3 @@ Tags.propTypes = {
   sectionTitle: PropTypes.string.isRequired,
   icon: PropTypes.string
 };
-
