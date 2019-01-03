@@ -35,7 +35,7 @@ export const projects = {
       }]
     },
     {
-      name: 'Ph.D. Rearch Projects',
+      name: 'Rearch Projects',
       list: [
         {
           url: '',

@@ -19,7 +19,16 @@ const profile = {
   languages: {
     sectionTitle: 'Certifications',
     list: [
-      { name: 'Deep Learning Specialization', level: 'Coursera - 2018', url: 'www.coursera.org/account/accomplishments/specialization/certificate/B72MXW7QHYAP'},
+      { name: 'Deep Learning Specialization', level: 'Coursera - Deeplearning.ai', url: 'www.coursera.org/account/accomplishments/specialization/certificate/B72MXW7QHYAP'},
+    ],
+  },
+  interests: {
+    sectionTitle: 'Skills',
+    list: [
+      { name: 'Languages', val: 'C++, Python, Java, Scala, Ruby, Javascript'},
+      { name: 'Frameworks', val: 'ROS, Spark, Tensorflow, Keras, Rails, Dropwizard, Java Play, ReactJS, AmberJS'},
+      { name: 'Databases',  val: 'MySQL, Hive, Cassandra, PostgreSQL, Redis'},
+      { name: 'Libraries',  val: 'OpenCV, OMPL'},
     ],
   }
 };
