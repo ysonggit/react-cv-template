@@ -1,11 +1,11 @@
 const profile = {
-  name: 'S.Berkay Aydın',
-  title: 'Full Stack Developer',
-  mail: 'sbaydin06@gmail.com',
-  phoneNumber: '+90 (507) 808 4130',
+  name: 'Yang Song',
+  title: 'Software Engineer',
+  mail: 'ysong.sc@gmail.com',
+  phoneNumber: '+000 00 000 0000',
   website: 'sbaydin.com',
-  linkedin: 'linkedin.com/in/sbaydin',
-  github: 'github.com/sbayd',
+  linkedin: 'linkedin.com/in/',
+  github: 'github.com/ysonggit',
   imagePath: 'profile.png',
   twitter: null,
   educationDetails: {
