@@ -7,8 +7,11 @@ npm start / yarn start
 npm build / yarn build
 ```
 
-Deploy this app to your gh-pages:
+## Deploy this app to your gh-pages:
 
+First, modify the `package.json` file, update the line `https://<yourgithubid>.github.io/react-cv-template` by filling in your Github id.
+ 
+Then deploy with command:
 ```
 npm run deploy
 ```
