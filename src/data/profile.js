@@ -25,10 +25,9 @@ const profile = {
   interests: {
     sectionTitle: 'Skills',
     list: [
-      { name: 'Languages', val: 'C++, Python, Java, Scala, Ruby, Javascript'},
-      { name: 'Frameworks', val: 'ROS, Spark, Tensorflow, Keras, Rails, Dropwizard, Java Play, ReactJS, AmberJS'},
+      { name: 'Languages', val: 'C++, Python, Java, Scala, Ruby, Javascript, Golang'},
+      { name: 'Frameworks', val: 'ROS, Hadoop, Spark, Tensorflow, Rails, Dropwizard, Java Play, EmberJS'},
       { name: 'Databases',  val: 'MySQL, Hive, Cassandra, PostgreSQL, Redis'},
-      { name: 'Libraries',  val: 'OpenCV, OMPL'},
     ],
   }
 };
